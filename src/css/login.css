@@ -1,0 +1,29 @@
+.login-link {
+    text-align: center;
+    margin-top: 20px;
+  }
+  
+  .login-link a {
+    color: goldenrod;
+    font-weight: bold;
+    text-decoration: none;
+    transition: color 0.3s ease;
+  }
+  
+  .login-link a:hover {
+    color: #ffc518;
+  }
+  
+  .login-form {
+    max-width: 400px;
+    padding: 30px;
+    border-radius: 10px;
+    background-color: #ffd59b1e;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .login-form__title {
+    text-align: center;
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
